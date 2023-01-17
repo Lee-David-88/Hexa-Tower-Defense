@@ -1,4 +1,4 @@
-# Hexa-Tower-Defense WIP
+# Hexa-Tower-Defense WIP (Code in Master Branch)
 Hexagonal grid base tower defense game made with unity
 
 
